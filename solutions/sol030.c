@@ -1,12 +1,17 @@
 #include<stdio.h>
+
 int main()
 {
+   // Defining function
    int a=0, b=1, range, c, sum=0;
-
    printf("Enter the number: ");
    scanf("%d",&range);
 
-   printf("The fibonacci series is: \t");
+   // Defining user input manual
+
+   printf("The fibonacci series is: \n");
+
+   // while loop for valid number insertion
    while( a <= range )
    {
       printf("%d\t",a);
