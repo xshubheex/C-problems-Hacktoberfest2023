@@ -13,6 +13,8 @@ Welcome to the C Language Basic-Problem Solving Repository!
 This repository is dedicated to solving a list of programming questions in the C language. 
 We invite you to contribute your solutions to these problems and help build a valuable resource for C programmers.
 
+![logo](https://github.com/krishnapatidar458/hacktoberfest2023/assets/103871719/47e3a67d-ec2a-4874-8ff2-e164324f1170)
+
 ## Table of Contents
 
 - Introduction
